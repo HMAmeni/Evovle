@@ -10,7 +10,7 @@ public class CandidateController {
 
 	@RequestMapping(value="/sysout", method = RequestMethod.GET)
 	private String sysout() {
-		
+		System.out.println("sysout test");
 		return "hello from sysout test";
 	}
 

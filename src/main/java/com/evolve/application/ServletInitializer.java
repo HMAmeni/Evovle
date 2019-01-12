@@ -1,4 +1,4 @@
-package com.evolve;
+package com.evolve.application;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
